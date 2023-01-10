@@ -32,7 +32,7 @@ src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c8
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhamb2003&show_icons=true&locale=en&layout=compact" alt="subhamb2003" /></p>
 
-<p>&nbsp; &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhamb2003&show_icons=true&locale=en" alt="subhamb2003" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=subhamb2003&show_icons=true&locale=en" alt="subhamb2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhamb2003&" alt="subhamb2003" /></p>
 

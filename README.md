@@ -1,5 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQEqHCbTKBD7LQ/profile-displaybackgroundimage-shrink_350_1400/0/1673637412535?e=1679529600&v=beta&t=5wny8accU-f8PdxHRKoszYxzpsZXKXuRdncy273Q0yY)
-Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Subham Bhattacharjee
+Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Subham Bhattacharjee
 =================================================================================================================================
 
 A passionate Mern-Stack developer from India

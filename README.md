@@ -9,9 +9,9 @@ I love to do challenging works where I can utilize my ability and improve it.
 My objective is to apply my knowledge(technical & non-technical) for the betterment of the society.
 
 * 🌍  I'm based in Somra Bazar, Hooghly, India
-* 🖥️  See my portfolio at [Subham Bhattacharjee](https://my-portfolio-website07.netlify.app/)
+* 🖥️  See my portfolio website at [Subham Bhattacharjee](https://my-portfolio-website07.netlify.app/)
 * ✉️  You can contact me at [subhambhattachariyatech03@gmail.com](mailto:subhambhattachariyatech03@gmail.com)
-* 🌱  I’m currently learning **APP Development**
+* 🌱  I’m currently Exploring different Tech Stack.
 * 💬  Ask me about **Mern, Java**
 
 

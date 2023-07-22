@@ -82,8 +82,8 @@ I love to do challenging works where I can utilize my ability and improve it. Lo
 ### 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=subhamb2003&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=subhamb2003&hide_border=true&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=subhamb2003&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=subhamb2003&hide_border=true&theme=tokyonight" />
 </p>
 
 
@@ -101,4 +101,3 @@ I love to do challenging works where I can utilize my ability and improve it. Lo
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/arpanaditya/arpanaditya/1c1931b6482a4e73be319a92bff7ecf0ef621d48/github-contribution-grid-snake.svg" alt="contribution"/>
 
-<p align="center">Thank you 🙏</p>

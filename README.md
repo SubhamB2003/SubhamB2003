@@ -99,5 +99,17 @@ I love to do challenging works where I can utilize my ability and improve it. Lo
 
 ![Visitor Count](https://profile-counter.glitch.me/{subhamb2003}/count.svg)
 
-<img align="center" width="100%" src="https://raw.githubusercontent.com/arpanaditya/arpanaditya/1c1931b6482a4e73be319a92bff7ecf0ef621d48/github-contribution-grid-snake.svg" alt="contribution"/>
+<!-- <img align="center" width="100%" src="https://raw.githubusercontent.com/arpanaditya/arpanaditya/1c1931b6482a4e73be319a92bff7ecf0ef621d48/github-contribution-grid-snake.svg" alt="contribution"/> --->
 
+<!-- Begin Footer -->
+<!-- Icons Resources -->
+<!-- https://devicon.dev/ -->
+<div class="footer" align="center" style="margin:15px;">
+    <a href="https://www.linkedin.com/in/subham-bhattacharjee-b39a9a1ba/" target="_blank">
+        <img  style="margin:0 10px 10px 0; border-radius: 50%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40px"/>
+    </a>
+    <a href="mailto:subhambhttachariya03@gmail.com" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+    </a>
+</div>
+<!-- End Footer -->
